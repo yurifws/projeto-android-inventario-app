@@ -16,7 +16,5 @@ Criada uma interface com o usuário Mobile para acesso que contém:
   
 Foi utilizado:
   - Java (Mobile);
-  - Firebase
-      Real Time Database;
-      Storage;
+  - Firebase(Real Time Database, Storage).
 
