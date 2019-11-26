@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Inventario App</string>
+
+    <string name="tipo_equipamento">Tipo de Equipamento</string>
+    <string name="modelo">Modelo</string>
+    <string name="mes_ano">Mês/Ano</string>
+    <string name="valor_aquisicao">Valor Aquisição</string>
+    <string name="foto">Foto</string>
+
+
+    <string name="incluir">Incluir</string>
+    <string name="alterar">Alterar</string>
+    <string name="deletar">Deletar</string>
+    <string name="voltar">Voltar</string>
+    <string name="incluir_inventario">Incluir Inventário</string>
+    <string name="alterar_inventario">Alterar Inventário</string>
+
+    <string name="digite_um_codigo_de_inventario">Digite um código de inventário...</string>
+    <string name="selecione_mes_ano">Selecione mêsAno...</string>
+    <string name="uploading">Uploading...</string>
+    <string name="uploading_progress">Uploading progress</string>
+    <string name="deleting">Deleting...</string>
+    <string name="selecione_uma_imagem">Selecione uma imagem</string>
+
+
+    <string name="valor_estimado_atual">Valor Estimado Atual</string>
+    <string name="depreciacao">2</string>
+
+    <string name="email">yurifws@gmail.com</string>
+
+
+
+
+</resources>

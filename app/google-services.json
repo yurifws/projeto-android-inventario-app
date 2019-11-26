@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "316750437420",
+    "firebase_url": "https://inventarioapp-f2266.firebaseio.com",
+    "project_id": "inventarioapp-f2266",
+    "storage_bucket": "inventarioapp-f2266.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:316750437420:android:e82f0c480e6d6030db0589",
+        "android_client_info": {
+          "package_name": "br.com.project.samsung.inventarioapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "316750437420-o0t0j2ittcd203aj5pl74sffb7v621s7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.com.project.samsung.inventarioapp",
+            "certificate_hash": "ea015495c423b2724001d14ed1407f9d3022bbe6"
+          }
+        },
+        {
+          "client_id": "316750437420-rn6fci2gasgd6upo8et896qs83ulqvss.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAp-TT06fx8-4YnHWUoIzVlWjQlIidrEE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "316750437420-rn6fci2gasgd6upo8et896qs83ulqvss.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
